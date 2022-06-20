@@ -161,7 +161,7 @@ Currently, the code says this...
 Console.WriteLine("Hello, World!");
  
 Change the bottom line to say, instead...   
-Console.WriteLine("Hello, World! 2");
+Console.WriteLine("Goodbye, World!");
 
 ...next, use Windows Notepad to save the changes you made.
 
@@ -171,9 +171,77 @@ C:\\desktop\test>dotnet run
 
 ...the output should appear as...
   
-Hello, world! 2
+Goodbye, world!
   
-...as this point, you can not change the code to say whatever it is you please.
+...at this point, you've learned to change the code to say whatever it is you please.
+
+**NOTE:** The code we are 'writing/running' here...is, in fact, C#/C sharp...hence the 'Program' file name extension is: [.cs].  
+  
+-----
+
+Example program 1: Greeting...(shows: input/output)  
+  
+string name;    
+Console.Clear();  
+Console.WriteLine("Type your name: ");  
+name = Console.ReadLine();  
+Console.WriteLine("Welcome, {0}",name);  
+  
+...use Windows Notepad to save the above program as being called: [Program.cs]  
+
+...then, run it as follows...  
+
+C:\\desktop\test>dotnet run  
+
+Type you name:  
+Paul  
+Welcome, Paul  
+
+C:\Desktop\test>  
+
+-----
+
+Example program 2: For loop...(shows: 12 x tables)  
+
+
+...use Windows Notepad to save the above program as being called: [Program.cs]  
+
+int tablesNo = 7;
+Console.Clear(); 
+for (int timesNo = 1; timesNo<13; timesNo++){  
+ Console.WriteLine("{0} X {1} = {2}",timesNo,tablesNo,(timesNo*tablesNo));
+}
+
+...then, run it as follows...  
+
+C:\\desktop\test>dotnet run  
+
+1 X 7 = 7  
+2 X 7 = 14  
+3 X 7 = 21  
+4 X 7 = 28  
+5 X 7 = 35  
+6 X 7 = 42  
+7 X 7 = 49  
+8 X 7 = 56  
+9 X 7 = 63  
+10 X 7 = 70  
+11 X 7 = 77  
+12 X 7 = 84  
+
+-----
+  
+## CONCLUSION
+  
+I am not myself an experienced C# programmer...; so, I'm just still in the process of learning it...; thus, my programs are very simple, indeed.  Hopefully, this situation might improve over time.  
+  
+I am also not familiar with learning to use Microsoft DotNet technologies before; therefore, I'm pretty damned sure...there must be loads of things I'm totally missing out on knowing altogether. Again, there is much I still have to learn...; as I understand it...they say DotNet can be used to create all sorts of programs: desktop/backend/frontend/web/database/-etc.; and, using all different sorts of programming languages: C#, C++, Visual BASIC, Python, Javascript, NodeJS, -etc. Frankly, at this moment, I've really no idea how to do any of that...???
+  
+  
+  
+                       
+                     
+                        
      
   
 
