@@ -258,7 +258,9 @@ Learn C# Tutorials
 https://docs.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
   
 ### YouTube...
-  
+
+What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?  
+https://www.youtube.com/watch?v=bEfBfBQq7EE   
   
                        
                      
