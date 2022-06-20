@@ -133,6 +133,24 @@ If you open up Windows Notepad text editor application...and, drag the file [Pro
 // See https://aka.ms/new-console-template for more information  
 Console.WriteLine("Hello, World!");
 
+-----
+
+## Running your first 'Hello, world!' dotnet program...
+  
+After the DOS Command Prompt symbol: > type in...
+
+C:\\desktop\test> dotnet run
+
+...and, the following output should appear...
+  
+  Hello, world!
+
+...warmest congratulations; and, very welcome to the wonderful world of DotNet programming.
+
+
+
+  
+  
 
   
 
