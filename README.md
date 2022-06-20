@@ -241,6 +241,15 @@ I am not myself an experienced C# programmer...; so, I'm just still in the proce
   
 I am also not familiar with learning to use Microsoft DotNet technologies before; therefore, I'm pretty damned sure...there must be loads of things I'm totally missing out on knowing altogether. Again, there is much I still have to learn...; as I understand it...they say DotNet can be used to create all sorts of programs: desktop/backend/frontend/web/database/-etc.; and, using all different sorts of programming languages: C#, C++, Visual BASIC, Python, Javascript, NodeJS, -etc. Frankly, at this moment, I've really no idea how to do any of that...???
   
+-----
+  
+## LINKS
+
+### Microsoft...
+  
+https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro
+  
+### YouTube...
   
   
                        
