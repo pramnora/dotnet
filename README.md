@@ -20,7 +20,7 @@ Microsoft Dotnet can be downloaded for FREE from...
 
 The first thing one needs to do is check...after already downloading/and, installing the program...to test seeing if DotNet has been installed, correctly, on your computer system...; which, in my own case, as of the date/time: 20th June 2022 15:57 PM GMT, happens to be Windows 10 Professional operating system.    
 
-1. Open up a DOS command line prompt window...; and, type in after the command line prompt...  
+Open up a DOS command line prompt window...; and, type in after the command line prompt...  
 
 C:\\>dotnet  
 
@@ -112,5 +112,24 @@ Run 'dotnet [command] --help' for more information on a command.
   
 -----
 
-## Creating, and, running your first 'Hello, world!' dotnet program.
+## Creating your first 'Hello, world!' dotnet program...
+  
+-(**NOTE:** You don't need to actually type in any code here...; instead, the program will write all of the test 'Hello, world' code for you.)-
+  
+1> First, create a folder called: test...; just so that all output files will be stored tidily inside of one same folder/that we can also easily find...
+  
+2> Next, open up a DOS Command Prompt...and, use this to CD-Change Directory...into the 'test' folder.
+  
+3> When inside of the 'test' folder...at the Command Prompt type in...
+  
+C:\\> dotnet new console  (then, press ENTER key)
+
+...this should create a number of folders/files...inside of your 'test/ folder...one of which file name is: [Program.cs]...it is inside of the [Program.cs] that your program code will be stored. If you open up Windows Notepad...and, drag the file [Program.cs] onto the Notepad window...it will display the following 'template' code...
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+
+
+  
+
 
