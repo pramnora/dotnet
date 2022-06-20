@@ -114,7 +114,7 @@ Run 'dotnet [command] --help' for more information on a command.
 
 ## Creating your first 'Hello, world!' dotnet program...
   
--(**NOTE:** You don't need to actually type in any code here...; instead, the program will write all of the test template 'Hello, world' code for you.)-
+-(**NOTE:** You don't need to actually type in any code here...; instead, the DotNet program itself will write the template: 'Hello, world!' code file for you.)-  
   
 1> First, go to your desktop; and, there create a folder called: test...; this is being done so that you can...  
   a> very quickly and easily find where the folder is whenever you want it  
@@ -122,7 +122,7 @@ Run 'dotnet [command] --help' for more information on a command.
   
 2> Next, open up a DOS Command Prompt...and, use this to CD-Change Directory...into the 'test' folder.
   
-3> When inside of the 'test' folder...at the Command Prompt type in...
+3> When inside of the 'test' folder...after the Command Prompt symbol: > type in...
   
 C:\\desktop\test> dotnet new console  (then, press ENTER key)
 
