@@ -217,6 +217,8 @@ for (int timesNo = 1; timesNo<13; timesNo++){
 ...then, run it as follows...  
 
 C:\\desktop\test>dotnet run  
+  
+What number times tables: 7 (Press ENTER key...)  
 
 1 X 7 = 7  
 2 X 7 = 14  
