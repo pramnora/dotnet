@@ -206,11 +206,11 @@ Example program 2: For loop...(shows: 12 x tables)
 
 ...use Windows Notepad to save the above program as being called: [Program.cs]  
 
-int tablesNo = 7;
-Console.Clear(); 
-for (int timesNo = 1; timesNo<13; timesNo++){  
- Console.WriteLine("{0} X {1} = {2}",timesNo,tablesNo,(timesNo*tablesNo));
-}
+int tablesNo = 7;  
+Console.Clear();   
+for (int timesNo = 1; timesNo<13; timesNo++){    
+ Console.WriteLine("{0} X {1} = {2}",timesNo,tablesNo,(timesNo*tablesNo));  
+}  
 
 ...then, run it as follows...  
 
