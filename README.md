@@ -114,19 +114,23 @@ Run 'dotnet [command] --help' for more information on a command.
 
 ## Creating your first 'Hello, world!' dotnet program...
   
--(**NOTE:** You don't need to actually type in any code here...; instead, the program will write all of the test 'Hello, world' code for you.)-
+-(**NOTE:** You don't need to actually type in any code here...; instead, the program will write all of the test template 'Hello, world' code for you.)-
   
-1> First, create a folder called: test...; just so that all output files will be stored tidily inside of one same folder/that we can also easily find...
+1> First, go to your desktop; and, there create a folder called: test...; this is being done so that you can...  
+  a> very quickly and easily find where the folder is whenever you want it  
+  b> so that all output files can be stored tidily inside of 'one' same folder  
   
 2> Next, open up a DOS Command Prompt...and, use this to CD-Change Directory...into the 'test' folder.
   
 3> When inside of the 'test' folder...at the Command Prompt type in...
   
-C:\\> dotnet new console  (then, press ENTER key)
+C:\\desktop\test> dotnet new console  (then, press ENTER key)
 
-...this should create a number of folders/files...inside of your 'test/ folder...one of which file name is: [Program.cs]...it is inside of the [Program.cs] that your program code will be stored. If you open up Windows Notepad...and, drag the file [Program.cs] onto the Notepad window...it will display the following 'template' code...
+...this should create a number of folders/files...inside of your 'test/ folder...one of which file name is: [Program.cs]...it is inside of the [Program.cs] that your program code will be stored.   
 
-// See https://aka.ms/new-console-template for more information
+If you open up Windows Notepad text editor application...and, drag the file [Program.cs] onto the Notepad window...it will display the following 'template' code...
+
+// See https://aka.ms/new-console-template for more information  
 Console.WriteLine("Hello, World!");
 
 
