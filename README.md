@@ -112,11 +112,12 @@ Run 'dotnet [command] --help' for more information on a command.
   
 -----
 
-## Creating your first 'Hello, world!' dotnet program...
+## Creating your first 'Hello, world!' dotnet program...(without needed to type in any code)
   
--(**NOTE:** You don't need to actually type in any code here...; instead, the DotNet program itself will write the template: 'Hello, world!' code file for you.)-  
+-(**NOTE:** You don't need to actually type in any code here...; instead, the DotNet program itself will write the template: 'Hello, world!' file for you.)-  
   
 1> First, go to your desktop; and, there create a folder called: test...; this is being done so that you can...  
+  
   a> very quickly and easily find where the folder is whenever you want it  
   b> so that all output files can be stored tidily inside of 'one' same folder  
   
@@ -147,7 +148,34 @@ C:\\desktop\test> dotnet run
 
 ...warmest congratulations; and, very welcome to the wonderful world of DotNet programming.
 
+-----
+  
+## Changing/editing the 'Hello, world!' code; then, re-running it...
+  
+Now, if you find the file called: [Program.cs]...by opening it inside of Windows Notepad text editor...;  
+then, you will be able too change the code to do anything you please...
+  
+Currently, the code says this...
 
+// See https://aka.ms/new-console-template for more information    
+Console.WriteLine("Hello, World!");
+ 
+Change the bottom line to say, instead...   
+Console.WriteLine("Hello, World! 2");
+
+...next, use Windows Notepad to save the changes you made.
+
+Now, open the DOS Prompt within the same folder directory; and, type...
+
+C:\\desktop\test>dotnet run
+
+...the output should appear as...
+  
+Hello, world! 2
+  
+...as this point, you can not change the code to say whatever it is you please.
+     
+  
 
   
   
