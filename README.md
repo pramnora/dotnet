@@ -253,7 +253,7 @@ In-browser tutorial (don't need to download anything)
   
 https://dotnet.microsoft.com/en-us/learn/dotnet/in-browser-tutorial/1  
   
-Learn C# Tutorails
+Learn C# Tutorials
 
 https://docs.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
   
