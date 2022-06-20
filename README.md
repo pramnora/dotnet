@@ -16,13 +16,13 @@ Microsoft Dotnet can be downloaded for FREE from...
 
 -----
 
-## Creating, and, running your first 'Hello, world!' dotnet program.
+## Checking if DotNet is correctly installed on your system...
 
-The first one needs to check...after downloading/and, installing the program...is to test seeing if DotNet has been installed, correctly, on your computer system...which, in my own case, as of the date/time: 20th June 2022 15:57 PM GMT, happens to be Windows 10 Professional operating system.    
+The first thing one needs to do is check...after already downloading/and, installing the program...to test seeing if DotNet has been installed, correctly, on your computer system; which, in my own case, as of the date/time: 20th June 2022 15:57 PM GMT, happens to be Windows 10 Professional operating system.    
 
 1. Open up a DOS command line prompt window...; and, type in after the command line prompt...  
 
-C:\>dotnet  
+C:\\>dotnet  
 
 Usage: dotnet [options]  
 Usage: dotnet [path-to-application]  
