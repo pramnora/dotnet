@@ -235,15 +235,23 @@ What number times tables: 7 (Press ENTER key...)
 
 -----
 
-## While loop...  
+## While loop(1)...entry controlled loop    
 
->//* C#, while loop test...  
 >int x=0;  
 >while(x<10){  
 > Console.Write("{0} ",x);  
 > x++;  
 >}  
->output: 0 1 2 3 4 5 6 7 8 9  
+>//output: 0 1 2 3 4 5 6 7 8 9  
+
+## While loop(2)...exit controlled loop    
+  
+>int y=0;  
+>do{  
+> Console.Write("{0} ",y);  
+> y++;  
+>} while(y<10);    
+>//output: 0 1 2 3 4 5 6 7 8 9  
 
 -----
   
