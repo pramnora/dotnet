@@ -201,7 +201,7 @@ C:\Desktop\test>
 
 -----
 
-Example program 2: For loop...(shows: 12 x tables)  
+Example program 2: For loop...enumeration loop  
 
 Console.Clear();  
 int tablesNo=0;  
