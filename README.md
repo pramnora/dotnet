@@ -279,8 +279,11 @@ https://docs.microsoft.com/en-gb/users/dotnet/collections/yz26f8y64n7k07?WT.mc_i
 
 ### DOCS  
 
-https://aka.ms/dotnet-docs  
-
+https://aka.ms/hello-world      
+https://aka.ms/dotnet-whats-new  
+https://aka.ms/dotnet-docs      
+https://aka.ms/dotnet-cli  
+https://aka.ms/dotnet-cli-telemetry    
   
 ### YouTube...
 
